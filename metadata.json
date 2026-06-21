@@ -1,0 +1,6 @@
+{
+  "name": "Computer Science CV Builder & Career Counselor",
+  "description": "An interactive, ATS-aligned resume builder with a built-in AI career counselor that guides computer science students in crafting high-impact projects, experiences, and technical skills paragraphs with real-time feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
